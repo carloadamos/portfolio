@@ -1,0 +1,7 @@
+Notes in building this portfolio
+
+1. What should we display on the front page?
+ * Name
+ * What I do? ('front end developer')
+ * Button to redirect to projects
+ * Navigation?
